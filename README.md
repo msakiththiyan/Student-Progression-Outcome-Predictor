@@ -31,8 +31,8 @@ Alternatively, download `graphics.py` manually from [Zelle's Graphics Library](h
 
  Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/msakiththiyan/Student-Progression-Outcome-Predictor.git
+   cd Student-Progression-Outcome-Predictor
    ```
 
  Run the Python script:  
