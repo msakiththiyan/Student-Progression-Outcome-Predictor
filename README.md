@@ -1,10 +1,10 @@
-# ** Student Progression Outcome Predictor**
+# Student Progression Outcome Predictor
 
 This Python program helps determine students' academic progression based on their credit scores. It categorizes students into **Progress**, **Module Trailer**, **Module Retriever**, or **Exclude** based on their **PASS, DEFER, and FAIL credits**. Additionally, the program generates a **histogram visualization** using the `graphics.py` library.
 
 ---
 
-## ** Features**
+## Features
 1. Input validation for credits (ensuring only valid integer values from `{0, 20, 40, 60, 80, 100, 120}` are accepted).  
 2. Categorizes students based on their total **PASS, DEFER, and FAIL credits**.  
 3. Stores student outcomes in separate lists (`progress`, `module_trailer`, `module_retriever`, `exclude`).  
@@ -13,12 +13,12 @@ This Python program helps determine students' academic progression based on thei
 
 ---
 
-## ** Installation & Setup**
+## Installation & Setup
 
-### **🔹 Prerequisites**
+### 🔹 Prerequisites
 Make sure you have **Python 3** installed on your system. If you haven't installed it yet, download it from [Python's official website](https://www.python.org/downloads/).
 
-### **🔹 Install Required Modules**
+### 🔹 Install Required Modules
 This program requires `graphics.py`, which is not a built-in module. You can install it using:
 ```bash
 pip install PythonGraphics
@@ -27,7 +27,7 @@ Alternatively, download `graphics.py` manually from [Zelle's Graphics Library](h
 
 ---
 
-## ** How to Run the Program**
+## How to Run the Program
 
  Clone this repository:  
    ```bash
@@ -45,7 +45,7 @@ Alternatively, download `graphics.py` manually from [Zelle's Graphics Library](h
 
 ---
 
-## ** Example Output**
+## Example Output
 ```
 Enter Your total PASS Credits: 100
 Enter Your total DEFER Credits: 20
@@ -59,8 +59,8 @@ Enter 'y' for yes or 'q' to quit and view results: q
 
 ---
 
-## ** License**
-This project is for educational purposes. **No plagiarism or misconduct is allowed.**
+## License
+This project is for educational purposes.
 
  **Date:** 13/12/2023  
  **Author:** *Magenthirarajah Sakiththiyan*  
